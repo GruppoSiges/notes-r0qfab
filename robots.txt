@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://GruppoSiges.github.io/notes-r0qfab/sitemap.xml
